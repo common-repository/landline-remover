@@ -1,0 +1,9 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+ .btn-primary {
+    background-color: #ff415a !important;
+    border-color: #f74f78 !important;
+}
